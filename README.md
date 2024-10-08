@@ -1,10 +1,13 @@
-<h2 align="left">Hi and welcome to my GitHub👋!</h2>
+<h2 align="center">Hi and welcome to my GitHub👋!</h2>
 
-###
+<br>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVkNXBjdDI1aGR2dnVrdHlyMzBsaDVnaWZkdDFsYjdiM3R3YTd0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TRFcNpyLTdo2kUmkwm/giphy.gif"  />
+<div align="center">
+<img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVkNXBjdDI1aGR2dnVrdHlyMzBsaDVnaWZkdDFsYjdiM3R3YTd0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TRFcNpyLTdo2kUmkwm/giphy.gif"  />
+</div>
+<hr/>
+<br>
 
-###
 
 <br clear="both">
 
@@ -43,14 +46,33 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
 </div>
+<br>
+<hr/>
+<br><br>
 
-###
-
-<div align="left">
-</div>
-
-###
 
 <p align="center">I'm a self-taught developer, programming since December 2022. Like many beginners, I started with HTML and CSS tutorials, but quickly moved on to building my own projects. I code in my free time alongside my full-time job, with the goal of becoming a fullstack developer focused on mobile apps and cloud backends.<br><br>My first project was a simple cat meme app that fetches images from a REST API, allowing users to rate and comment on them. This helped me dive into new technologies, using React, TypeScript, Express.js, and a Node.js proxy for simulated comments.<br><br>My current project is a more complex Time and Work-Life management app, built with Firebase, React Native, and TypeScript. Over the past months, I've deepened my understanding of architecture and tackled challenges that stem from being relatively new to the field. I constantly strive to make user flows intuitive and error-free.<br><br>There are still many features I plan to add, and my list of future projects and technologies to learn keeps growing. I'm passionate about solving problems and continuously improving my skills!<br><br>Let's build something amazing 🚀</p>
 
-###
+<br><br>
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=John-CFO&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=John-CFO&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=John-CFO&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=John-CFO&icon=6&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
