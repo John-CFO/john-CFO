@@ -7,11 +7,20 @@
 </div>
 <hr/>
 <br>
-
+<p align="center">
+  <a href="https://postimg.cc/MvYWQF8R">
+    <img src="https://i.postimg.cc/9F6zs68x/technologies.jpg" alt="technologies" />
+  </a>
+</p>
+  
 
 <br clear="both">
-
+ 
 <div align="center">
+
+
+  
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -57,6 +66,7 @@
 
 
 # 📊 GitHub Stats:
+
 
 ![](https://github-readme-stats.vercel.app/api?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=John-CFO&theme=dark&hide_border=false)<br/>
