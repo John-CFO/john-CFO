@@ -60,29 +60,34 @@
 <br><br>
 
 
-<p align="center">I'm a self-taught developer, programming since December 2022. Like many beginners, I started with HTML and CSS tutorials, but quickly moved on to building my own projects. I code in my free time alongside my full-time job, with the goal of becoming a fullstack developer focused on mobile apps and cloud backends.<br><br>My first project was a simple cat meme app that fetches images from a REST API, allowing users to rate and comment on them. This helped me dive into new technologies, using React, TypeScript, Express.js, and a Node.js proxy for simulated comments.<br><br>My current project is a more complex Time and Work-Life management app, built with Firebase, React Native, and TypeScript. Over the past months, I've deepened my understanding of architecture and tackled challenges that stem from being relatively new to the field. I constantly strive to make user flows intuitive and error-free.<br><br>There are still many features I plan to add, and my list of future projects and technologies to learn keeps growing. I'm passionate about solving problems and continuously improving my skills!<br><br>Let's build something amazing 🚀</p>
+<p align="center">I'm a self-taught developer, programming since December 2022. Like many beginners, I started with HTML and CSS tutorials, but quickly moved on to building my own projects. I code in my free time alongside my full-time job, with the goal of becoming a senior fullstack developer focused on mobile apps and cloud backends.<br><br>My first project was a simple cat meme app that fetches images from a REST API, allowing users to rate and comment on them. This helped me dive into new technologies, using React, TypeScript, Express.js, and a Node.js proxy for simulated comments.<br><br>My current project is a more complex Time and Work-Life management app, built with Firebase, React Native, and TypeScript. Over the past months, I've deepened my understanding of architecture and tackled challenges that stem from being relatively new to the field. I constantly strive to make user flows intuitive and error-free.<br><br>There are still many features I plan to add, and my list of future projects and technologies to learn keeps growing. I'm passionate about solving problems and continuously improving my skills!<br><br>Let's build something amazing 🚀</p>
 
 <br><br>
 
 
 # 📊 GitHub Stats:
 
-
-![](https://github-readme-stats.vercel.app/api?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=John-CFO&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-CFO&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=John-CFO&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=John-CFO&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=John-CFO&limit=5&theme=aura&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=John-CFO&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=John-CFO&icon=6&color=12)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=John-CFO&icon=6&color=12" alt="Profile Views" />
+  </a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
