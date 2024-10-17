@@ -64,29 +64,40 @@
 
 <br><br>
 
-
-# 📊 GitHub Stats:
+<div align="center">
+<h2> 📊 GitHub Stats</h2> 
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-CFO&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
-## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=John-CFO&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <br>
+<h2>🏆 GitHub Trophies</h2> 
 </div>
+  
+<div align="center">
 
-### 🔝 Top Contributed Repo
+  <img src="https://github-profile-trophy.vercel.app/?username=John-CFO&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  
+</div>
+<div align="center">
+  <br>
+<h2> 🔝 Top Contributed Repo</h2> 
+  </div>
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=John-CFO&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  
 </div>
 
 
 <div align="center">
+  <br>
+  <br>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=John-CFO&icon=6&color=12" alt="Profile Views" />
+    <img width="110" height="30"  src="https://visitcount.itsvg.in/api?id=John-CFO&icon=6&color=12" alt="Profile Views" />
   </a>
 </div>
 
