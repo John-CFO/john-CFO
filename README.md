@@ -60,6 +60,12 @@
 <br><br>
 
 
+<p align="center">
+  <a href="https://postimg.cc/WDjtZRnV">
+    <img src="https://i.postimg.cc/7LJzpwJ5/about.jpg" />
+  </a>
+</p>
+
 <p align="center">I'm a self-taught developer, programming since December 2022. Like many beginners, I started with HTML and CSS tutorials, but quickly moved on to building my own projects. I code in my free time alongside my full-time job, with the goal of becoming a senior fullstack developer focused on mobile apps and cloud backends.<br><br>My first project was a simple cat meme app that fetches images from a REST API, allowing users to rate and comment on them. This helped me dive into new technologies, using React, TypeScript, Express.js, and a Node.js proxy for simulated comments.<br><br>My current project is a more complex Time and Work-Life management app, built with Firebase, React Native, and TypeScript. Over the past months, I've deepened my understanding of architecture and tackled challenges that stem from being relatively new to the field. I constantly strive to make user flows intuitive and error-free.<br><br>There are still many features I plan to add, and my list of future projects and technologies to learn keeps growing. I'm passionate about solving problems and continuously improving my skills!<br><br>Let's build something amazing 🚀</p>
 
 <br><br>
