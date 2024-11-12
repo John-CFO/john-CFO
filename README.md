@@ -69,10 +69,10 @@
 <p align="center">I'm a self-taught developer, programming since December 2022. Like many beginners, I started with HTML and CSS tutorials, but quickly moved on to building my own projects. I code in my free time alongside my full-time job, with the goal of becoming a senior fullstack developer focused on mobile apps and cloud backends.<br><br>My first project was a simple cat meme app that fetches images from a REST API, allowing users to rate and comment on them. This helped me dive into new technologies, using React, TypeScript, Express.js, and a Node.js proxy for simulated comments.<br><br>My current project is a more complex Time and Work-Life management app, built with Firebase, React Native, and TypeScript. Over the past months, I've deepened my understanding of architecture and tackled challenges that stem from being relatively new to the field. I constantly strive to make user flows intuitive and error-free.<br><br>There are still many features I plan to add, and my list of future projects and technologies to learn keeps growing. I'm passionate about solving problems and continuously improving my skills!<br><br>Let's build something amazing 🚀</p>
 
 <br><br>
-
+<hr/>
 <div align="center">
+<a href='https://postimages.org/'><img src='https://i.postimg.cc/26J6gsNF/stats.jpg'/></a>
 
-<h2> 📊 GitHub Stats</h2> 
 </div>
 
 <div align="center">
@@ -80,32 +80,38 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-CFO&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-CFO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+<hr/>
 <div align="center">
     <br>
-<h2>🏆 GitHub Trophies</h2> 
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/dVDqW9WF/Trophies.png' border='0' alt='Trophies'/></a>
 </div>
   
 <div align="center">
 
   <img src="https://github-profile-trophy.vercel.app/?username=John-CFO&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
+  <hr/>
 </div>
 <div align="center">
  
-<h2> 🔝 Top Contributed Repo</h2> 
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/vTRJvr4Q/TopRepo.png' border='0' alt='TopRepo'/></a>
   </div>
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=John-CFO&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-  
+   <hr/>
    <br>
+</div>
+   <div align="center">
+ 
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/SNHgYSzh/Activity.png' border='0' alt='Activity'/></a>
+ 
  
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=John-CFO&theme=dracula)
  
  <br>
  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=John-CFO&theme=react-dark)
-
 </div>
+
 
 
 
