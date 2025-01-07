@@ -117,12 +117,6 @@
 
 
 
-<div align="center">
-  <br>
-  <br>
-  <a href="https://visitcount.itsvg.in">
-    <img width="110" height="30"  src="https://visitcount.itsvg.in/api?id=John-CFO&icon=6&color=12" alt="Profile Views" />
-  </a>
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
