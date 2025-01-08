@@ -110,7 +110,11 @@
  <br>
  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=John-CFO&theme=react-dark)
+![GitHub Views](https://komarev.com/ghpvc/?username=john-CFO) 
 </div>
+
+
+
 
 
 
